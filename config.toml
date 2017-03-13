@@ -100,8 +100,8 @@ googleAnalytics = ""
 		phone = "123-456-6789"
 		email = "feedback@startbootstrap.com"
 
-	# Google Maps section
-	# [params.location]
-	# 	latitude  = "34.007850"
-	# 	longitude = "-118.499305"
-	# 	maps_api_key = ""
+	 #Google Maps section
+	[params.location]
+	 	latitude  = "34.007850"
+	 	longitude = "-118.499305"
+	 	maps_api_key = "AIzaSyAe4_9zXYZkCLi-n6ieYyPpSMYG7-YvCtc"
