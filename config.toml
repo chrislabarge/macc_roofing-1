@@ -1,6 +1,6 @@
-baseurl = "https://example.org/"
+baseurl = "https://maccroofing.github.io"
 languageCode = "en-us"
-title = "Hugo Creative Theme"
+title = "MACC Roofing"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
 
@@ -29,7 +29,7 @@ googleAnalytics = ""
 
 	# Navigation
 	[params.navigation]
-		brand = "Hugo Creative Theme"
+		brand = "MACC Roofing"
 
 		[params.navigation.links]
 			about     = "About"
@@ -42,40 +42,40 @@ googleAnalytics = ""
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "MACC Roofing"
-		subtitle   = "The Albany & Capital Region New York roofing experts."
+		subtitle   = "The Albany & New York Capital Region Roofing Experts."
 		buttonText = "Find out more"
 
 
 	# About section
 	[params.about]
 		headline    = "We've got what you need!"
-		description = "MACC ROOFING is available to give all services of contruction of House, Install, Roofing, Siding, Gutter, Windows, Paint and other works of the interior and exterior of your home."
-		buttonText  = "Get started!"
+		description = "MACC Roofing provides a multitude of construction services that include Roofing, Siding, Paintiing, Gutters, Windows, and more for the interior & exterior of your home or business."
+		buttonText  = "Contact Us Today!"
 
 
 	# Service section
 	[params.services]
-		headline = "At your service"
+		headline = "Services Provided"
 
         [[params.services.list]]
-            icon = "fa-diamond"
-            title = "Sturdy Templates"
-            description = "Our templates are updated regularly so they don't break."
+            icon = "fa-home"
+            title = "Home Roofing"
+            description = "Modern design and development that breathes life into new or old home."
 
         [[params.services.list]]
-			icon = "fa-paper-plane"
-			title = "Ready to Ship"
-			description = "You can use this theme as is, or you can make changes!"
+			icon = "fa-building-o"
+			title = "Commercial Roofing"
+			description = "Code enforced installation for any commercial building."
+
+        [[params.services.list]]
+            icon = "fa-plus"
+            title = "Plus More"
+            description = "Exterior & Interior services including gutters, siding, windows, and painting."
 
 		[[params.services.list]]
-            icon = "fa-newspaper-o"
-            title = "Up to Date"
-            description = "We update dependencies to keep things fresh."
-
-        [[params.services.list]]
-            icon = "fa-heart"
-            title = "Made with Love"
-            description = "You have to make your websites with love these days!"
+            icon = "fa-thumbs-up "
+            title = "Quality"
+            description = "We do it right the first time!  Practicing top-quality construction standards."
 
 
     # Portfolio modals
@@ -86,22 +86,22 @@ googleAnalytics = ""
         buttonText = "Close"
 
     # Aside section
-	[params.aside]
-		headline = "Get the Creative Theme for Hugo"
+	#[params.aside]
+	#	headline = "Get the Creative Theme for Hugo"
 
-		[params.aside.button]
-			text = "Download now"
-			link = "//github.com/digitalcraftsman/hugo-creative-theme"
+	#	[params.aside.button]
+	#		text = "Download now"
+	#		link = "//github.com/digitalcraftsman/hugo-creative-theme"
 
 	# Contact section
 	[params.contact]
 		headline = "Let's Get In Touch!"
-		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
-		phone = "123-456-6789"
-		email = "feedback@startbootstrap.com"
+		description = "Need an estimate? We can provide one! Give us a call or send us an email and we will get back to you as soon as possible!"
+		phone = " 518-331-4488"
+		email = "MACCRoofing518@gmail.com"
 
 	 #Google Maps section
 	[params.location]
-	 	latitude  = "34.007850"
-	 	longitude = "-118.499305"
+	 	latitude  = "42.68530699999999"
+	 	longitude = "-73.79656899999998"
 	 	maps_api_key = "AIzaSyAe4_9zXYZkCLi-n6ieYyPpSMYG7-YvCtc"
