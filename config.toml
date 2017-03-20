@@ -42,7 +42,7 @@ googleAnalytics = ""
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "MACC Roofing"
-		subtitle   = "The Albany & New York Capital Region Roofing Experts."
+		subtitle   = "The Albany New York & Capital Region Roofing Experts."
 		buttonText = "Find out more"
 
 
@@ -59,7 +59,7 @@ googleAnalytics = ""
 
         [[params.services.list]]
             icon = "fa-home"
-            title = "Home Roofing"
+            title = "Residential Roofing"
             description = "Modern design and development that breathes life into new or old home."
 
         [[params.services.list]]
