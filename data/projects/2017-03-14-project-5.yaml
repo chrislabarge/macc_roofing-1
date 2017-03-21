@@ -1,8 +1,11 @@
+---
 modalID: 5
-title: Project 5
-date: 2017-03-14
+title: Cranes Away!
+date: '2017-03-14T00:00:00+00:00'
 img: house3.jpg
-client: Start Bootstrap
+client: "#"
 clientLink: "#"
 category: Residential Roofing
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeat tenetur cum tempore velit.
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid
+  dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas
+  ipsam, deleniti neque placeat tenetur cum tempore velit.
