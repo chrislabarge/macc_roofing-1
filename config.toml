@@ -1,5 +1,5 @@
 baseurl = "https://maccroofing.github.io"
-googleAnalytics = ""
+googleAnalytics = "UA-96200494-1"
 languageCode = "en-us"
 theme = "hugo-creative-theme"
 title = "MACC Roofing"
