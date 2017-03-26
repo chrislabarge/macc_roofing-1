@@ -1,4 +1,4 @@
-baseurl = "https://maccroofing.github.io"
+baseurl = "http://maccroofing.com"
 googleAnalytics = "UA-96200494-1"
 languageCode = "en-us"
 theme = "hugo-creative-theme"
