@@ -25,4 +25,22 @@
             {{ end }}
         </div>
     </div>
+    <div class="container">
+        <div class="row quote-wrap">
+            <div class="col-lg-12 text-center">
+                <h3>
+                    {{ with .Site.Params.services.quote }}
+                        <div class='quote'>
+                            <i class="fa fa-quote-left" aria-hidden="true"></i>
+                                {{ . }}
+                            <i class="fa fa-quote-right" aria-hidden="true"></i>
+                        </div>
+                    {{ end }}
+                </h3>
+                    <div class="citation">
+                        - Joe Lynch (Project Manager for <a href="http://brooksheritage.com/">Heritage Custom Builders LLC</a>)
+                    </div>
+            </div>
+        </div>
+    </div>
 </section>

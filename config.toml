@@ -3,45 +3,57 @@ googleAnalytics = ""
 languageCode = "en-us"
 theme = "hugo-creative-theme"
 title = "MACC Roofing"
+
 [params]
-description = "Your description"
+description = "MACC Roofing is based out of Albany New York, providing exterior and interior construction services for residential or commercial projects around Capital Region."
 favicon = "favicon.ico"
-name = "Your name"
+name = "MACC Roofing"
+
 [params.about]
 buttontext = "Contact Us Today!"
-description = "MACC Roofing provides a multitude of construction services that include Roofing, Siding, Paintiing, Gutters, Windows, and more for the interior & exterior of your home or business."
-headline = "We've got what you need!"
+description = "MACC Roofing provides a multitude of construction services that include Roofing, Siding, Painting, Gutters, Windows, and more for the interior & exterior of your home or business."
+headline = "We can get the job done!"
+
 [params.contact]
 description = "Need an estimate? We can provide one! Give us a call or send us an email and we will get back to you as soon as possible!"
 email = "MACCRoofing518@gmail.com"
 headline = "Let's Get In Touch!"
 phone = " 518-331-5238"
+
 [params.hero]
 buttontext = "Find out more"
 slogan = "MACC Roofing"
 subtitle = "The Albany New York & Capital Region Roofing Experts."
+
 [params.location]
 latitude = "42.68530699999999"
 longitude = "-73.79656899999998"
 maps_api_key = "AIzaSyAe4_9zXYZkCLi-n6ieYyPpSMYG7-YvCtc"
+
 [params.navigation]
 brand = "MACC Roofing"
+
 [params.navigation.links]
 about = "About"
 contact = "Contact"
 portfolio = "Portfolio"
 services = "Services"
+
 [params.portfolio.modal]
 buttontext = "Close"
 category = "Category"
 client = "Client"
 date = "Date"
+
 [params.services]
 headline = "Services Provided"
+quote = "We use MACC Roofing on all of our development projects.  These guys are fast and efficient without sacrifising quality."
+
 [[params.services.list]]
 description = "Modern design and development that breathes life into new or old home."
 icon = "fa-home"
 title = "Residential Roofing"
+
 [[params.services.list]]
 description = "Code enforced installation for any commercial building."
 icon = "fa-building-o"
@@ -50,7 +62,11 @@ title = "Commercial Roofing"
 description = "Exterior & Interior services including gutters, siding, windows, and painting."
 icon = "fa-plus"
 title = "Plus More"
+
 [[params.services.list]]
 description = "We do it right the first time!  Practicing top-quality construction standards."
 icon = "fa-thumbs-up "
 title = "Quality"
+
+
+
