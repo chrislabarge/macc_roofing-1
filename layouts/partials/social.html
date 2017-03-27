@@ -1,0 +1,15 @@
+{{ "<!-- SERVICES -->" | safeHTML }}
+<section id="social">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 text-center">
+                    {{ with .Site.Params.social.facebook }}
+                        <a href="{{ . }}"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+                    {{ end }}
+                    {{ with .Site.Params.social.twitter }}
+                        <a href="{{ . }}"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+</section>

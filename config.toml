@@ -29,6 +29,7 @@ subtitle = "The Albany New York & Capital Region Roofing Experts."
 latitude = "42.68530699999999"
 longitude = "-73.79656899999998"
 maps_api_key = "AIzaSyAe4_9zXYZkCLi-n6ieYyPpSMYG7-YvCtc"
+location_url = "https://www.google.com/maps/place/MACC+Roofing/@42.685307,-73.7987577,17z/data=!3m1!4b1!4m5!3m4!1s0x89de0b0a3c24c771:0x953ef364935fce98!8m2!3d42.685307!4d-73.796569"
 
 [params.navigation]
 brand = "MACC Roofing"
@@ -67,6 +68,10 @@ title = "Plus More"
 description = "We do it right the first time!  Practicing top-quality construction standards."
 icon = "fa-thumbs-up "
 title = "Quality"
+
+[params.social]
+facebook = "https://www.facebook.com/maccroofing/"
+twitter = "https://twitter.com/MaccRoofing"
 
 
 

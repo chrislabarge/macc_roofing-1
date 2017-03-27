@@ -37,6 +37,11 @@
             {{ partial "location.html" . }}
         {{ end }}
 
+        {{ if .Site.Params.social }}
+            {{ partial "social.html" . }}
+        {{ end }}
+
+
         {{ if .Site.Data.projects }}
             {{ partial "modals.html" . }}
         {{ end }}
